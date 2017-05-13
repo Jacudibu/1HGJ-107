@@ -5,4 +5,5 @@ My entry for the One Hour Gamejam #107, named "ROCKETS!".
 
 
 
-Find out more about One Hour Gamejam here: http://onehourgamejam.com/
+
+http://onehourgamejam.com/
